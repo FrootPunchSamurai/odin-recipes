@@ -1,0 +1,32 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: auto;
+    border: 4px solid lawngreen;
+}
+
+.head{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: linen;
+}
+
+p{
+    font-family: Helvetica;
+    font-size: 18px;
+}
+
+li{
+    font-family: Helvetica;
+    font-size: 18px;
+}
+
+h3{
+    font-size: 30px;
+}
